@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+
+dataset/
+Testing/
+Training/
+
+*.pth
+*.pt
+*.ckpt
+
+outputs/best_model.pth
